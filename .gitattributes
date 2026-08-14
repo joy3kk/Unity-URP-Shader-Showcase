@@ -1,0 +1,5 @@
+* text=auto
+*.shader text eol=lf
+*.hlsl text eol=lf
+*.cs text eol=lf
+*.md text eol=lf
